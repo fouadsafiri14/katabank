@@ -1,6 +1,6 @@
-package models;
+package builders;
 
-import static models.ExtendedComparable.LogicOperation.BIGGER_THAN;
+import static builders.ExtendedComparable.LogicOperation.BIGGER_THAN;
 
 public class WithdrawOperation implements Operation {
     private final Money amount;

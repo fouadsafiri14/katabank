@@ -1,4 +1,4 @@
-package models;
+package builders;
 
 public class DepositTransaction extends BaseTransaction {
     public DepositTransaction(Money amount) {

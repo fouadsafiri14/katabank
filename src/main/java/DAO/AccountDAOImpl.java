@@ -1,6 +1,6 @@
 package DAO;
 
-import models.Account;
+import builders.Account;
 
 import java.sql.*;
 import java.util.ArrayList;

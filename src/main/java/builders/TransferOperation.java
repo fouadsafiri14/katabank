@@ -1,4 +1,4 @@
-package models;
+package builders;
 
 public class TransferOperation implements Operation {
     private final Account toAccount;

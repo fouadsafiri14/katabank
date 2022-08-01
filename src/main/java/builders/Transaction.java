@@ -1,4 +1,4 @@
-package models;
+package builders;
 
 public interface Transaction {
 

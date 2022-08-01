@@ -1,9 +1,8 @@
 package DAO;
 
-import models.Account;
-import models.BaseTransaction;
-import models.Money;
-import models.Transaction;
+import builders.Account;
+import builders.BaseTransaction;
+import builders.Transaction;
 
 import java.sql.*;
 import java.util.ArrayList;

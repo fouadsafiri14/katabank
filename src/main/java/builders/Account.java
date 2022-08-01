@@ -1,9 +1,4 @@
-package models;
-
-import java.io.PrintStream;
-import java.util.Date;
-
-import static models.Amount.amountOf;
+package builders;
 
 public class Account {
 

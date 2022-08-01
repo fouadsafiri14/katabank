@@ -1,7 +1,7 @@
-package models;
+package builders;
 
 
-import static models.ExtendedComparable.LogicOperation.LESS_THAN;
+import static builders.ExtendedComparable.LogicOperation.LESS_THAN;
 
 public class DepositOperation implements Operation {
 

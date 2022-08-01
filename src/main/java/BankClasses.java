@@ -1,7 +1,6 @@
-import models.*;
+import builders.*;
 
 import java.math.BigDecimal;
-import java.util.Scanner;
 
 public class BankClasses {
     public static void main (String[] args){
